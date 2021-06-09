@@ -36,6 +36,6 @@
 
 ## TODOS
 
-- Most of the client and props routing and associated service/repo methods
+- Some of the client and props routing and associated service/repo methods
 
 - No tests
