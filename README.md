@@ -1,10 +1,26 @@
-# ManyToOne Properties on an Entity - code sample
+# Simple ManyToOne Properties on an Entity - code sample
 
-- NestS
+- [NestS](https://nestjs.com/)
 
-- TypeORM
+- [TypeORM](https://typeorm.io/#/)
 
-- PostgreSQL
+- [PostgreSQL](https://www.postgresql.org/)
+
+## entities Relations
+
+- A central `Client` entity
+
+- various "properties" entities
+
+  - `Email`
+
+  - `Phone`
+
+  - `Property` - With address, zip code, etc
+
+  - `Websites`
+
+- Each Client can have multiples "properties". For example a client can have multiple emails, websites, etc
 
 ## Notes
 
