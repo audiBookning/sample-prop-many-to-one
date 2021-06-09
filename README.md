@@ -39,3 +39,14 @@
 - Some of the client and props routing and associated service/repo methods
 
 - No tests
+
+## Disclaimer
+
+This code is not and will never be maintained. It is just some random sample code.
+
+Feel free to copy and make any change you like.
+
+##
+
+License
+ISC © 2021 AudiBookning
