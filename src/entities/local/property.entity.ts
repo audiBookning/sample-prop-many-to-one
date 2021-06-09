@@ -8,8 +8,6 @@ import {
 } from 'typeorm';
 import { Client } from '../client/client.entity';
 
-//@OsoClass()
-
 @Entity()
 export class Property extends BaseEntity {
   @PrimaryGeneratedColumn('uuid')

@@ -8,10 +8,6 @@ import {
 } from 'typeorm';
 import { Client } from '../client/client.entity';
 
-// TODO: ter melhor validaçao talvez usar uma livraria externa?
-// TODO: por numa tabela externa para poder ter multiplas opcoes?
-//@OsoClass()
-
 @Entity()
 export class Website extends BaseEntity {
   @PrimaryGeneratedColumn('uuid')
