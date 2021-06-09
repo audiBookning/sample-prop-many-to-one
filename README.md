@@ -6,7 +6,7 @@
 
 - [PostgreSQL](https://www.postgresql.org/)
 
-## entities Relations
+## Entities Relations
 
 - A central `Client` entity
 
@@ -24,11 +24,15 @@
 
 ## Notes
 
+- The purpose of this sample is more to illustrate the concept for inexperienced devs. "Copy pasting" this will not really help save any time.
+
 - Uses `.env.development` for config the dev environment variables.
 
 - Has a docker-compose file for ease of "testing". See the `docker.env` file for the DB config
 
 - Use `docker-compose up` to run the containers.
+
+- Has a `RepoService` that joins all the entities repository for the sake of pure laziness.
 
 ## TODOS
 
