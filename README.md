@@ -1,6 +1,6 @@
 # Simple ManyToOne Properties on an Entity - code sample
 
-Part of a personal [list](https://github.com/audiBookning/sample-nestjs-codes) of random samples code for NestJS
+Part of a personal [list](https://github.com/audiBookning/samples-code-ressource-list) of random samples code
 
 - [NestS](https://nestjs.com/)
 
